@@ -25,5 +25,5 @@
 
 ## Commit history
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/PerryLets/PerryLets/blob/output/dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/PerryLets/PerryLets/blob/output/dist/github-snake-dark.svg#gh-dark-mode-only)
