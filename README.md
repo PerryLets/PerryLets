@@ -25,4 +25,4 @@
 
 ## Commit history
 
-![Snake animation](https://github.com/PerryLets/PerryLets/blob/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PerryLets/PerryLets/blob/output/dist/github-contribution-grid-snake.svg)
