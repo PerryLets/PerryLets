@@ -23,7 +23,7 @@
 
 <img alt="Python"  align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-## Commit history
+<!-- ## Commit history -->
 
-<!-- ![GitHub Snake Light](https://github.com/PerryLets/PerryLets/blob/output/dist/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/PerryLets/PerryLets/blob/output/dist/github-snake-dark.svg#gh-dark-mode-only) -->
+<!-- ##![GitHub Snake Light](https://github.com/PerryLets/PerryLets/blob/output/dist/github-snake.svg#gh-light-mode-only)
+##![GitHub Snake dark](https://github.com/PerryLets/PerryLets/blob/output/dist/github-snake-dark.svg#gh-dark-mode-only) -->
