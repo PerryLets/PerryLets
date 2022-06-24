@@ -23,7 +23,7 @@
 
 <img alt="Python"  align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-## Commit history
+## Commit history (On public repos)
 
 ![GitHub Snake Light](https://github.com/PerryLets/PerryLets/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/PerryLets/PerryLets/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
