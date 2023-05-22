@@ -5,11 +5,7 @@
 <img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerryLets&theme=tokyonight" />
 </div>
 
-## Learning
-
- <img alt="C++" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-
-## Technologies I use (Typescript is definitely going here in the near future)
+## Technologies I use
 
 ### For web
 
