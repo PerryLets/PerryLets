@@ -1,7 +1,6 @@
 # Perry
 
 <div>
-<img height="180em" alt="Perry's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=PerryLets&show_icons=true&theme=tokyonight&count_pribate=true" />
 <img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerryLets&theme=tokyonight" />
 </div>
 
